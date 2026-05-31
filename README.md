@@ -1,60 +1,71 @@
-# Hi, I'm Sai Krishna Mohan 👋
+<h1 align="center">Hi, I'm Sai Krishna Mohan 👋</h1>
 
-## Full Stack Developer | AI/RAG Builder | React + Node.js | AWS | OpenAI
+<h3 align="center">Applied AI Engineer • RAG Builder • Full Stack Developer • AWS • OpenAI</h3>
 
-I build production-style web applications, backend platforms, and AI-powered systems focused on clean architecture, practical problem solving, and deployable products.
+<p align="center">
+Building AI-powered products, RAG systems, and scalable backend platforms.
+</p>
 
 ---
 
-## What I'm Building
+## About Me
 
-- AI-powered RAG systems using OpenAI, embeddings, vector databases, Redis caching, and cloud deployment
-- Full-stack web applications with React, Node.js, Express, MongoDB, JWT authentication, and admin dashboards
-- Production-ready backend services with queues, testing, metrics, and cloud infrastructure
-- Developer-focused tools that combine automation and AI
+I build production-style systems focused on AI applications, backend engineering, cloud deployment, and real-world problem solving.
+
+My work combines:
+
+- Applied AI and RAG architectures
+- Full-stack product development
+- Cloud-native backend systems
+- AI ingestion pipelines and semantic search
+- Developer tooling and automation
 
 ---
 
 ## Current Focus
 
 - Agentic AI workflows
-- Retrieval-Augmented Generation systems
-- Vector databases and semantic search
-- AWS, Docker, and CI/CD
-- Production-grade backend design
-- Full-stack AI product development
+- Retrieval-Augmented Generation (RAG)
+- OpenAI integrations
+- Vector databases and semantic retrieval
+- AWS deployment and observability
+- Production-grade AI backend systems
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-React.js, JavaScript, TypeScript, Material UI, Tailwind CSS, Redux Toolkit, React Router, Axios
+React.js • JavaScript • TypeScript • Material UI • Tailwind CSS • Redux Toolkit • React Router • Axios
 
 ### Backend
-Node.js, Express.js, MongoDB, REST APIs, JWT Authentication
+Node.js • Express.js • MongoDB • REST APIs • JWT Authentication • BullMQ
 
-### AI and Cloud
-OpenAI API, RAG, Embeddings, Qdrant, FAISS, Redis, BullMQ, AWS ECS, AWS S3, Docker, Prometheus, Grafana
+### AI + Cloud
+OpenAI • RAG • Embeddings • Qdrant • FAISS • Redis • FastAPI • AWS ECS • AWS S3 • Docker • Prometheus • Grafana
 
 ---
 
-## Featured Projects
+## Featured AI Projects
 
 ### YouTube RAG Assistant
-AI application that turns YouTube transcripts into searchable knowledge using transcript extraction, chunking, embeddings, FAISS indexing, and RAG-based chat.
+AI-powered video intelligence platform that transforms YouTube transcripts into searchable knowledge using chunking, embeddings, vector search, and conversational retrieval.
 
-Repo:
+Repository:
 https://github.com/SaiKrishnaMohan053/youtube-rag-assistant
 
-### GetFitByHumanAI
-AI fitness coach backend designed around verified trainer knowledge, strict RAG routing, medical safety handling, Redis caching, BullMQ jobs, vector search, and AWS deployment.
+---
 
-Repo:
+### GetFitByHumanAI
+AI fitness coach backend built around verified knowledge retrieval, intelligent routing, safety handling, vector search, Redis caching, async processing, and AWS deployment.
+
+Repository:
 https://github.com/SaiKrishnaMohan053/getfit_ai_backend
 
+---
+
 ### Full Stack E-Commerce Platform
-Production-style e-commerce platform with authentication, admin management, product workflows, cart, wishlist, orders, discounts, and analytics.
+Production-style e-commerce application with authentication, dashboards, product management, analytics, cart, wishlist, and scalable backend APIs.
 
 Frontend:
 https://github.com/SaiKrishnaMohan053/E-Commerce_frontend
@@ -64,13 +75,13 @@ https://github.com/SaiKrishnaMohan053/E-Commerce_backend
 
 ---
 
-## What I Care About
+## Engineering Mindset
 
-- Building real applications, not only demos
-- Writing maintainable code
-- Designing scalable backend systems
-- Improving AI reliability through routing, safety, and evaluation
-- Creating practical products
+- Build real products, not toy demos
+- Focus on scalable backend architecture
+- Improve AI reliability with routing, safety, caching, and evaluation
+- Design systems that are deployable and maintainable
+- Learn by building production workflows
 
 ---
 
@@ -87,4 +98,6 @@ Add your portfolio link
 
 ---
 
-Building full-stack AI products one system at a time.
+<p align="center">
+Building applied AI systems one product at a time.
+</p>
