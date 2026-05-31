@@ -80,7 +80,7 @@ GitHub:
 https://github.com/SaiKrishnaMohan053
 
 LinkedIn:
-Add your LinkedIn profile link
+https://www.linkedin.com/in/krishna-mohan1998
 
 Portfolio:
 Add your portfolio link
