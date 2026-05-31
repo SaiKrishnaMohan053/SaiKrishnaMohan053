@@ -1,6 +1,6 @@
 # Hi, I'm Sai Krishna Mohan 👋
 
-## Full Stack Developer | AI/RAG Builder | React + Node.js + Java | AWS | OpenAI
+## Full Stack Developer | AI/RAG Builder | React + Node.js | AWS | OpenAI
 
 I build production-style web applications, backend platforms, and AI-powered systems focused on clean architecture, practical problem solving, and deployable products.
 
@@ -32,7 +32,7 @@ I build production-style web applications, backend platforms, and AI-powered sys
 React.js, JavaScript, TypeScript, Material UI, Tailwind CSS, Redux Toolkit, React Router, Axios
 
 ### Backend
-Node.js, Express.js, Java, Spring Boot, MongoDB, REST APIs, JWT Authentication
+Node.js, Express.js, MongoDB, REST APIs, JWT Authentication
 
 ### AI and Cloud
 OpenAI API, RAG, Embeddings, Qdrant, FAISS, Redis, BullMQ, AWS ECS, AWS S3, Docker, Prometheus, Grafana
